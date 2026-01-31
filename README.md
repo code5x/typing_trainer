@@ -82,8 +82,13 @@ Automatic terminal width detection
 ## 📝 Notes
 
 Typing results and statistics appear after completion or safe Ctrl+C exit.
+
 Demo text files are included and custom text files are supported.
+
 Text lines are split to fit terminal width, not auto-wrapped.
+
 Words are never split across lines.
+
 Don't change terminal size when typing in progress.
+
 Ctrl+C exits cleanly and safely.
